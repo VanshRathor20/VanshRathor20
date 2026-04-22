@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  🚀 Frontend Developer | React | Java DSA
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanshrathor20&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
@@ -14,7 +18,7 @@
 
 - 🔥 Focused on **Frontend Development (React)**
 - 💡 Solved **180+ DSA problems**
-- 🚀 Building **real-world projects**
+- 🛠️ Built **real-world projects with APIs & authentication**
 - 🤝 Open to **collaborations (Java / React)**
 - 🎯 Goal: **Frontend Developer Role**
 - 🔎 Looking for **Intern / Fresher Opportunities**
@@ -26,6 +30,7 @@
 ### 🛍️ Fashion Store  
 - Built with **React + API + Authentication**  
 - Features: Product listing, filtering, cart system  
+- 💡 Helps users browse and purchase products with a smooth UI experience  
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://e-mart-website.netlify.app/)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VanshRathor20/Fashion-Store)
@@ -35,6 +40,7 @@
 ### 📊 Finance Dashboard  
 - Built with **React (Charts & Analytics UI)**  
 - Features: Data visualization, dashboard UI  
+- 💡 Provides insights using interactive charts and analytics UI  
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://finance-dashboard-001.netlify.app/dashboard)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VanshRathor20/Finance-Dashboard)
@@ -66,7 +72,8 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,ts,java,mysql,c,python,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,java,mysql,c,python,git" />
 </p>
 
 ---
@@ -74,12 +81,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshrathor20&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshrathor20&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshrathor20&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshrathor20&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshrathor20&show_icons=true&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshrathor20&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
