@@ -1,66 +1,105 @@
 <h1 align="center">Hi 👋, I'm Vansh Rathor</h1>
-<h3 align="center">Frontend Developer from India | React Enthusiast | Java & DSA Learner</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vanshrathor20&label=Profile%20views&color=0e75b6&style=flat" alt="vanshrathor20" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Enthusiast;DSA+Learner;Open+to+Opportunities&center=true&width=500&height=50">
 </p>
 
-- 🔭 I’m currently working on **Improving my DSA skills in Java and building frontend projects.**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshrathor20&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🌱 I’m currently learning **Advanced Data Structures & Algorithms and building frontend applications with React.**
+---
 
-- 👯 I’m looking to collaborate on **Beginner-friendly Java or React projects.**
+## 👨‍💻 About Me
 
-- 🤝 I’m looking for help with **Writing optimized and clean DSA solutions.**
+- 🔥 Focused on **Frontend Development (React)**
+- 💡 Solved **180+ DSA problems**
+- 🚀 Building **real-world projects**
+- 🤝 Open to **collaborations (Java / React)**
+- 🎯 Goal: **Frontend Developer Role**
+- 🔎 Looking for **Intern / Fresher Opportunities**
 
-- 💬 Ask me about **Java OOP, DSA practice, and my learning journey.**
+---
 
-- 📫 Reach me at: **[vanshkumar5887.work@gmail.com](mailto:vanshkumar5887.work@gmail.com)**
+## 🚀 Featured Projects
 
-- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1DcHO-RuMatnoHmxFfeioZlJypU6vanOO/view?usp=sharing)
+### 🛍️ Fashion Store  
+- Built with **React + API + Authentication**  
+- Features: Product listing, filtering, cart system  
 
-- ⚡ Fun fact: **I believe consistency beats motivation. 🚀**
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://e-mart-website.netlify.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VanshRathor20/Fashion-Store)
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
+### 📊 Finance Dashboard  
+- Built with **React (Charts & Analytics UI)**  
+- Features: Data visualization, dashboard UI  
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://finance-dashboard-001.netlify.app/dashboard)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/VanshRathor20/Finance-Dashboard)
+
+---
+
+## 🌐 Connect with me
+
+<p>
   <a href="https://linkedin.com/in/vansh-kumar-20-codes">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   
   <a href="https://instagram.com/vansh_rathor_20">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
   
-  <a href="https://www.hackerrank.com/@vanshrathor5887">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30"/>
+  <a href="https://www.hackerrank.com/profile/vanshrathor5887">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40"/>
   </a>
   
-  <a href="https://www.leetcode.com/vansh_rathor">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/>
+  <a href="https://leetcode.com/u/vansh_rathor/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,ts,java,mysql,c,python,git" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshrathor20&show_icons=true&locale=en&layout=compact" alt="vanshrathor20" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshrathor20&show_icons=true&locale=en" alt="vanshrathor20" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshrathor20&" alt="vanshrathor20" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshrathor20&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshrathor20&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshrathor20&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** [vanshkumar5887.work@gmail.com](mailto:vanshkumar5887.work@gmail.com)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1PB_DWaw7cBQYxnPIop_f-qgeKxGH817t/view)
+- 💼 **LinkedIn:** [vansh-kumar-20-codes](https://linkedin.com/in/vansh-kumar-20-codes)
+
+---
+
+## ⚡ Fun Fact
+
+💡 Consistency beats motivation — every single day.
