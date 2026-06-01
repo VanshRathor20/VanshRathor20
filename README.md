@@ -102,7 +102,7 @@
 ## 📫 Contact
 
 - 📧 **Email:** [vanshkumar5887.work@gmail.com](mailto:vanshkumar5887.work@gmail.com)
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1PB_DWaw7cBQYxnPIop_f-qgeKxGH817t/view)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1TKDLCBh0xcitUmLEd1g-L4IHGCYR2OOb/view?usp=sharing)
 - 💼 **LinkedIn:** [vansh-kumar-20-codes](https://linkedin.com/in/vansh-kumar-20-codes)
 
 ---
