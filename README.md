@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Vansh Rathor (Action) 👋
+# Hey, I'm Vansh Rathor 👋
 
 ### Full-Stack Developer | React · Node.js · MERN | Building Production Apps
 
